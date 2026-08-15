@@ -1,0 +1,11 @@
+id_pedido,id_usuario,fecha_hora_pedido,pais,dispositivo,fuente_referencia,nombre_producto,categoria_producto,cantidad,precio_unitario,monto_descuento,monto_total
+order_3521,user_5812,2025-02-03,Mexico,mobile,paid_search,Laptop-Gaming-16GB,Electrónica,10000.0,43.14,0.0,431400.0
+order_3522,user_3575,2025-03-29,Argentina,desktop,social,Laptop-Gaming-16GB,Electrónica,10000.0,280.55,0.0,2805500.0
+order_3586,user_3380,2025-02-03,Mexico,mobile,paid_search,Laptop-Gaming-16GB,Electrónica,10000.0,490.35,0.0,4903500.0
+order_3643,user_4440,2025-01-07,Colombia,desktop,social,Laptop-Gaming-16GB,Electrónica,10000.0,238.15,0.0,2381500.0
+order_3656,user_884,2025-01-01,Argentina,mobile,organic,Laptop-Gaming-16GB,Electrónica,20000.0,297.66,0.0,5953200.0
+order_3668,user_7270,2025-06-24,Mexico,mobile,paid_search,Laptop-Gaming-16GB,Electrónica,20000.0,348.31,0.0,6966200.0
+order_3689,user_6566,2025-06-16,Mexico,desktop,paid_search,Laptop-Gaming-16GB,Electrónica,10000.0,87.69,0.0,876900.0
+order_3722,user_4723,2025-05-09,Argentina,mobile,paid_search,Laptop-Gaming-16GB,Electrónica,20000.0,442.01,0.0,8840200.0
+order_3726,user_2536,2025-02-12,Colombia,desktop,social,Laptop-Gaming-16GB,Electrónica,20000.0,290.85,0.0,5817000.0
+order_3748,user_7096,2025-02-23,Mexico,desktop,organic,Laptop-Gaming-16GB,Electrónica,10000.0,336.93,0.0,3369300.0
